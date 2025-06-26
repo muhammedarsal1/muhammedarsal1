@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer and Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="images/welcome.gif" alt="Welcome Animation" width="300px"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRla2t4ZjJqbnZpYXphMHo4NWo4M3dsMGMydHlqOHdkanRqa3E4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnexM9LwlwGu4Z1QnS/giphy.gif" alt="Welcome Animation" width="300px"/>
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=なかった1&" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedarsal1&" alt="Streak Stats"/>
 </p>
 
 <p align="center">
